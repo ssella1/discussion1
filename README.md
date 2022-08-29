@@ -1,2 +1,2 @@
-# discussion1
+# Discussion1
 <h1>Sydney Sella</h1>
